@@ -81,5 +81,5 @@ Ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ## Contact
-For any issues or contributions, please reach out at **your-khamkarvishal6@example.com** or create a GitHub issue.
+For any issues or contributions, please reach out at **your- khamkarvishal6@gmail.com** or create a GitHub issue.
 
